@@ -1,4 +1,4 @@
-package exporter // import "github.com/ClickHouse/clickhouse_exporter/exporter"
+package exporter
 
 import (
 	"crypto/tls"

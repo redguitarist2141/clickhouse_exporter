@@ -1,4 +1,4 @@
-package main // import "github.com/ClickHouse/clickhouse_exporter"
+package main
 
 import (
 	"flag"
